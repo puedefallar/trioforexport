@@ -1,0 +1,35 @@
+#principal {
+    background: url(../images/principal-1.png) center / cover;
+}
+
+#principal-foot {
+    background: #000000;
+}
+
+#bianchi_godoy {
+    background: url(../images/octavio.png) center / cover;
+
+}
+
+#nombre {
+    background: #000000;
+}
+
+.navbar {
+  display: flex
+  align-content: center;
+  justify-content: center;
+}
+
+.navbar .navbar-menu {
+    flex-grow: initial;
+    flex-shrink: initial;
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 768px) {
+
+}

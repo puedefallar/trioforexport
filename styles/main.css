@@ -35,8 +35,16 @@
 
 @media (max-width: 1024px) {
 
+
 }
 
 @media (max-width: 768px) {
+    #principal {
+        background: #faf4ed;
+    }
+
+    #nav-links {
+        font-size: 15px;
+    }
 
 }
